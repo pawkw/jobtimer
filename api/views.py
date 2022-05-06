@@ -1,3 +1,11 @@
 from django.shortcuts import render
 
-# Create your views here.
+# Login
+
+# Create user
+
+# Add company
+
+# Start time
+
+# End time
